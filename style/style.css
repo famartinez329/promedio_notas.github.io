@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    height: center;
+    width: center;
+    color: rgba(0, 0, 0, 0.801);
+    background: url(fondo_promedio.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+body{
+    font-size: 40px;
+}
